@@ -7,7 +7,7 @@ blurb:
   text: It's good to put thoughts into words
 intro:
   heading: Topics
-  text: Pretty random topics
+  text: 'Pretty random topics, also ugly random topics.'
 products:
   - image: img/illustrations-coffee.svg
     text: I don't drink coffee
